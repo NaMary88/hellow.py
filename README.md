@@ -1,6 +1,6 @@
-# hellow.py
-creating
-the purpose of repository
-for project folder
-contains code + files
+# Hello Python Repository
+
+## Purpose
+it is a project folder 
+contain code + files
 maintains history
